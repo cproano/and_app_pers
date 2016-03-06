@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\menu\\new_jugador_menu.xml",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\menu\\new_jugador_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\menu\\jugador_detail_menu.xml",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\menu\\jugador_detail_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_team.xml",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\menu\\menu_team.xml"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\menu\\jugadors_menu.xml",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\menu\\jugadors_menu.xml"
+    }
+]

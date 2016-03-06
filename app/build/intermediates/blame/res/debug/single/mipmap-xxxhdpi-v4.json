@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\alevi_b.png",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\mipmap-xxxhdpi\\alevi_b.png"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\quarta_catalana.png",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\mipmap-xxxhdpi\\quarta_catalana.png"
+    },
+    {
+        "merged": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\alevi.png",
+        "source": "C:\\Users\\charlie\\AndroidStudioProjects\\MyPlayers\\app\\src\\main\\res\\mipmap-xxxhdpi\\alevi.png"
+    }
+]
